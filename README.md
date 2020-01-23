@@ -22,17 +22,17 @@ si no sabes como funcion git clone, la idea es muy sencilla, te descargas los ar
 
 cuando termine vas a ver que adentro tenes otro carpeta entras a esa y abrimos otra terminal para ejecutar los dos comandos que nos faltan `vagrant up` y `vagrant ssh`
 
-## y ahora? 
+## ¿Y ahora? 
 bueno si todo salio bien te salio algo como esto: 
 
 ![Alt Text](vagrant_up_ssh_giff.gif)
 
 y basicamente estamos dentro de otra computadora que viene con todo lo necesario para armar apks con cordova.
 
-comandos utiles :
-> `ls` para listar los carpetas y archivos de donde estas parado
-> `mkdir` creas una carpeta 
-> `vagrant halt` cerras la VM y te podes volver a conectarte (tengo que aprender como reconectarme :P)
+### comandos utiles :
+- `ls` para listar los carpetas y archivos de donde estas parado
+- `mkdir` creas una carpeta 
+- `vagrant halt` cerras la VM y te podes volver a conectarte (tengo que aprender como reconectarme :P)
 
 ## creando una app
 y bueno ahora vamos a crear una carpeta donde vamos a guardar todos nuestros proyectos en particular hice
