@@ -47,3 +47,5 @@ y para ver que esta pasando simplemente te vas a:
 >  http://192.168.2.2:8000
 
 deberias ser capaz de ver el starter template de cordova
+
+![Alt Text](cordova_server_ok.png)
