@@ -12,7 +12,12 @@ Vagrant lo instale lo mas pancho , te pide ejecutar:
  > -   Install vagrant-vbguest plugin  `vagrant plugin install vagrant-vbguest`
 > -  Install vagrant fsnotify plugin  `vagrant plugin install vagrant-fsnotify`
 
-para hacer esto tenia instalado git que te viene con gitbash , haces click derecho en cualquier lugar, luego elejis git bash here se te habre una consola y ejecutas 
+de ahora en adelante necesitamos una terminal, te recomiendo que bajes [ Git ](https://git-scm.com/) que viene con gitbash, luego de instalarlo haces click derecho, git bash here y se te abre una consola
+
+![Alt Text](git_bash_here.gif)
+
+Y podes ejecutar:
+
 > vagrant --version
 
 si te devuelve un numero significa que esta instalado y ejecutas los dos comandos de arriba 
