@@ -20,10 +20,14 @@ si te devuelve un numero significa que esta instalado y ejecutas los dos comando
 si no sabes como funcion git clone, la idea es muy sencilla, te descargas los archivos del programa que otra persona lo subio. el comando lo ejecutas en la carpeta en donde queres que se guarde . en mi caso cree una carpeta que se llama vagrant_clone y ahi abre una termina de gitbash y ejecute 
 > 1.  `git clone https://github.com/csernam/vagrant-ionic`
 
-cuando termine vas a ver que adentro tenes otro carpeta entras a esa y abrimos otra terminal para ejecutar los dos comandos que nos faltan
+cuando termine vas a ver que adentro tenes otro carpeta entras a esa y abrimos otra terminal para ejecutar los dos comandos que nos faltan `vagrant up` y `vagrant ssh`
 
 ## y ahora? 
-bueno si todo salio bien te salio algo como esto: agregar imagen . y basicamente estamos dentro de otra computadora que viene con todo lo necesario para armar apks con cordova.
+bueno si todo salio bien te salio algo como esto: 
+
+![Alt Text](vagrant_up_ssh_giff.gif)
+
+y basicamente estamos dentro de otra computadora que viene con todo lo necesario para armar apks con cordova.
 
 comandos utiles :
 > `ls` para listar los carpetas y archivos de donde estas parado
